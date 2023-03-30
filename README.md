@@ -21,8 +21,8 @@ LQR: <br>
 Design a state observer, simulate the resultant observer-based LQR control system, monitor the state estimation error, investigate effects of observer poles on state estimation error and closed-loop control performance. <br>
 <img src="figures/state_observe_error_signal.png" alt="state_observe_error_signal.png" width="1000" height="500" title="performance of state observe and error signal.png"> <br>
 
-## Design the decoupling system
-Interested in the outputs of car position and bike angle. Design a decoupling controller with closed-loop stability of the 2-input-2-output system.
+## Decouple system
+Interested in the outputs of car position and bike angle. Design a decoupling controller with closed-loop stability of the 2-input-2-output system.<br>
 <img src="figures/DP_step_response.png" alt="DP_step_response" width="400" height="300" title="step response">
 <img src="figures/DP_zero_input_response.png" alt="DP_zero_input_response" width="400" height="300" title="zero input response">
 
